@@ -1,5 +1,3 @@
-# Water_Management_System_Simple_using_Python
-
 # Water Tank Management Simulation
 
 This is a simple Python project that simulates a water tank management scenario. It was created as a coding practice exercise to demonstrate basic programming concepts such as input handling, conditionals, and loops.
